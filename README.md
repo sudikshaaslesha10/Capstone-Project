@@ -20,6 +20,9 @@ Support data-driven pricing strategy decisions
 * Data Processing: SQL, Data Cleaning, Feature Engineering
 * Visualization: Power BI, Power Query, DAX, Power BI Service
 
+## Dataset:
+
+
 ### 🔄 Project Workflow
 
 - Web scraped structured product data
@@ -30,23 +33,23 @@ Support data-driven pricing strategy decisions
 
 📊 Key Insights
 
-Higher ratings and review volume strongly influence product performance.
+- Higher ratings and review volume strongly influence product performance.
 
-Discount percentage significantly drives customer engagement.
+- Discount percentage significantly drives customer engagement.
 
-Selling price has greater impact on purchase decisions than MRP.
+- Selling price has greater impact on purchase decisions than MRP.
 
-Discount-related features were among the most influential predictors in the pricing model.
+- Discount-related features were among the most influential predictors in the pricing model.
 
 💡 Business Impact
 
-Supports optimized discount strategies
+- Supports optimized discount strategies
 
-Enables data-backed pricing decisions
+- Enables data-backed pricing decisions
 
-Identifies high-performing product segments
+- Identifies high-performing product segments
 
-Provides interactive dashboard for stakeholder monitoring
+- Provides interactive dashboard for stakeholder monitoring
 
 🚀 Skills Demonstrated
 
