@@ -21,6 +21,7 @@ Support data-driven pricing strategy decisions
 * Visualization: Power BI, Power Query, DAX, Power BI Service
 
 ## Dataset:
+[Download Snapdeal Dataset](./data/snapdeal_shoes.csv)
 
 
 ### 🔄 Project Workflow
