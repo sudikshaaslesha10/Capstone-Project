@@ -21,7 +21,7 @@ Support data-driven pricing strategy decisions
 * Visualization: Power BI, Power Query, DAX, Power BI Service
 
 ## Dataset:
-[Download Snapdeal Dataset](./data/snapdeal_shoes.csv)
+[Download Snapdeal Dataset](.[/data/snapdeal_shoes.csv](https://github.com/sudikshaaslesha10/Capstone-Project/blob/2b73c4c871f06c28a66b0b170913eab47cd5eaae/snapdeal_cleaned_data.csv))
 
 
 ### 🔄 Project Workflow
